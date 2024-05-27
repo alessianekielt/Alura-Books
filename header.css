@@ -2,5 +2,7 @@
     width: 24px;
     height: 24px;
     background-image: url("./img/Menu\ Aberto.png");
-    display: inline;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: inline-block;
 }
