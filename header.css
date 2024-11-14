@@ -7,7 +7,7 @@
     background-position: center;
 }
 
-.container-botao:checked~.container-rotulo>.cabeçalho-menu-hamburguer {
+.container-botao:checked~.container-rotulo>.cabecalho-menu-hamburguer {
     background-image: url("./img/Menu\ Aberto.png");
 }
 
@@ -61,7 +61,6 @@
     -webkit-text-fill-color: transparent;
     background-clip: text;
     text-transform: uppercase;
-    list-style-type: none;
 }
 
 .container-botao {
@@ -165,7 +164,4 @@
         display: block;
     }
 
-}
-.lista-menu-item{
-    list-style-type: none;
 }
