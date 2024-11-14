@@ -30,6 +30,10 @@
 
 .container-imagem {
     padding: 1em;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width: 20%;
 }
 
 
